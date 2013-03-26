@@ -1,5 +1,6 @@
 {
     "name": "reinink/reveal",
+    "description": "PHP libraries that make HTTP responses a breeze.",
     "version": "1.0.0",
     "autoload":
     {
